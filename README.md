@@ -3,4 +3,4 @@
 ## Portfolio Website made using BootStrap 5
 
 
-## [Project Demo](https://pankaj892.live)
+## [Project Link](https://pankaj892.live)
